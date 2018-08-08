@@ -1,0 +1,5 @@
+TheaterApi/**/**/bin/
+TheaterApi/**/**/obj/
+TheaterApi/.vs/
+*.suo
+*.user

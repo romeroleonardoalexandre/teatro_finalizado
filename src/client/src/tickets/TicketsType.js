@@ -1,0 +1,6 @@
+export const INTEIRA = "INTEIRA"
+export const MEIA = "MEIA"
+export const PROMOCIONAL = "PROMOCIONAL"
+export const CORTESIA = "CORTESIA"
+export const INTEGRANTE = "INTEGRANTE"
+export const INDISPONIVEL = "INDISPONIVEL"

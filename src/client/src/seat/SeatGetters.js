@@ -1,0 +1,4 @@
+export const GET_SEAT = "SEAT_GETTER_GET_SEAT"
+export const GET_ROWS = "SEAT_GETTER_GET_ROWS"
+export const GET_COLS = "SEAT_GETTER_GET_COLS"
+export const SEAT_TYPES = "SEAT_GETTER_SEAT_TYPES"

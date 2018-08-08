@@ -1,0 +1,3 @@
+export const GO_TO = "TICKETS_ACTION_GO_TO"
+export const GET_TICKETS = "TICKETS_ACTION_GET_TICKETS"
+export const TESTE = "TICKETS_ACTION_TESTE"

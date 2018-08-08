@@ -1,0 +1,35 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:50603/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "THEATERAPI_JWT_KEY": "C3B971A349EAEEEFED8B911E4CC49",
+        "THEATERAPI_JWT_AUD": "theaterapi.1.0.0",
+        "THEATERAPI_JWT_ISS": "theaterapi"
+      }
+    },
+    "TheaterApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "THEATERAPI_JWT_KEY": "C3B971A349EAEEEFED8B911E4CC49",
+        "THEATERAPI_JWT_AUD": "theaterapi.1.0.0",
+        "THEATERAPI_JWT_ISS": "theaterapi"
+      },
+      "applicationUrl": "http://localhost:50604/"
+    }
+  }
+}
